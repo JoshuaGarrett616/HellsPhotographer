@@ -6,6 +6,7 @@ Saved
 .vs
 Content
 *.VC.db
+*.opensdf
 *.opendb
 *.sdf
 *.sln
